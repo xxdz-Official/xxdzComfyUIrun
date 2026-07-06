@@ -2,9 +2,10 @@
 // @name         電籽ComfyUI web前端修复反人类设计
 // @namespace    http://tampermonkey.net/
 // @version      8.6.5
-// @description  右键菜单搜索节点+菜单层级高亮+丝滑动画+在线AI直接生成工作流
+// @description  解决一堆痛点，右键菜单搜索节点+菜单层级高亮+丝滑动画+AI生成/编辑工作流+错误信息一键复制+直角磁贴风格+一键打开工作流在磁盘的位置等等很多功能
 // @author       小小电子xxdz
 // @homepage     https://xxdz-official.github.io/x
+// @icon         https://xxdz-official.github.io/xxdzComfyUIrun/img/xxdz%20studio%20loge3.0.ico
 // @match        http://127.0.0.1:8188/*
 // @match        http://localhost:8188/*
 // @match        http://127.0.0.1/*
