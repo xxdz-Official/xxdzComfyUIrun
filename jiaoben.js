@@ -6,6 +6,7 @@
 // @author       小小电子xxdz
 // @homepage     https://xxdz-official.github.io/x
 // @icon         https://xxdz-official.github.io/xxdzComfyUIrun/img/xxdz%20studio%20loge3.0.ico
+// @license      GPL-3.0-or-later
 // @match        http://127.0.0.1:8188/*
 // @match        http://localhost:8188/*
 // @match        http://127.0.0.1/*
